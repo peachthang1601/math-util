@@ -14,11 +14,11 @@ automatically with GitHub Actions
 
 \### Screen-shots
 
-!\[JUnit with TDD, DDT](https://github.com/peachthang1601/math-util/blob/main/screen-shots/Screen-Shots1.png)
+!\[JUnit with TDD, DDT](https://raw.githubusercontent.com/peachthang1601/math-util/main/screen-shots/Screen-Shots1.png)
 
 
 
-#### Connect me via: dieunguyenlk0977@gmail.com
+Connect me via: dieunguyenlk0977@gmail.com
 
 ##### \##### \&#169; 2026 - peachthang1601
 
