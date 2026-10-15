@@ -7,7 +7,7 @@ public class MathUtil {
             throw new IllegalArgumentException("Invalid n. n must be between 0 and 20");
         }
 
-        long result = 1;
+        long result = 10;
 
         //n đang ổn, làm vòng for mà tính dồn, nhân dồn vào result
         for (int i = 1; i <= n; i++) {
