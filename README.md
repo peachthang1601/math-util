@@ -1,24 +1,13 @@
 # Welcome to Math Utility
 
-### You will find in this repo the following
+### You will find in this repo the following stuff:
+* A Maven project to implement Math Util library 
+* A JUnit source code to demonstrate the Unit Testing, TDD & DDT technique
+* A CI script to check and build the project automatically with GitHub Actions
 
-stuff:
+### Screen-shots
+![JUnit with TDD, DDT](https://github.com/peachthang1601/math-util/blob/main/screen-shots/Screen-Shots1.png) 
 
-* A Maven project to implement Math Util library
-* A JUnit source code to demonstrate the Unit Testing,
-TDD \& DDT technique
-\*A CI script to check and build the project
-automatically with GitHub Actions
+#### Connect me via: dieunguyenlk0977@gmail.com
 
-
-
-\### Screen-shots
-
-!\[JUnit with TDD, DDT](https://github.com/peachthang1601/math-util/blob/main/screen-shots/Screen-Shots1.png?raw=true)
-
-
-
-Connect me via: dieunguyenlk0977@gmail.com
-
-##### \##### \&#169; 2026 - peachthang1601
-
+##### &#169; Copyright 2026 - peachthang1601
