@@ -14,7 +14,7 @@ automatically with GitHub Actions
 
 \### Screen-shots
 
-!\[JUnit with TDD, DDT](https://raw.githubusercontent.com/peachthang1601/math-util/main/screen-shots/Screen-Shots1.png)
+!\[JUnit with TDD, DDT](https://github.com/peachthang1601/math-util/blob/main/screen-shots/Screen-Shots1.png?raw=true)
 
 
 
